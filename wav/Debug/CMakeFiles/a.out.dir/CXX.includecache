@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tengu/Dev/wav/includes/FichierBinaire.h
+iostream
+-
+string
+-
+fstream
+-
+
+/home/tengu/Dev/wav/includes/FichierBinaireWav.h
+FichierBinaire.h
+/home/tengu/Dev/wav/includes/FichierBinaire.h
+string
+-
+iostream
+-
+
+/home/tengu/Dev/wav/src/main.cpp
+iostream
+-
+ostream
+-
+../includes/FichierBinaire.h
+/home/tengu/Dev/wav/includes/FichierBinaire.h
+../includes/FichierBinaireWav.h
+/home/tengu/Dev/wav/includes/FichierBinaireWav.h
+

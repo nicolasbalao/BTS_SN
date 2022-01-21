@@ -1,0 +1,3 @@
+/home/tengu/Dev/wav/Debug/CMakeFiles/rebuild_cache.dir
+/home/tengu/Dev/wav/Debug/CMakeFiles/edit_cache.dir
+/home/tengu/Dev/wav/Debug/CMakeFiles/a.out.dir

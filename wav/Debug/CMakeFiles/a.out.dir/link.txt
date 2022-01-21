@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/a.out.dir/src/FichierBinaire.cpp.o CMakeFiles/a.out.dir/src/FichierBinaireWav.cpp.o CMakeFiles/a.out.dir/src/main.cpp.o -o a.out 
